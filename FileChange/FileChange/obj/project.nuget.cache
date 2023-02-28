@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SZlAIh8gPzgf0Z3i7XG58jqCmR0Y4IVu1t9yXongOmVuvdIt+vgbHWHZ38klJb+iJ9yVz1BwWIdoVS1ztGXvIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\藤本恵汰\\source\\repos\\FileChange\\FileChange\\FileChange.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\藤本恵汰\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

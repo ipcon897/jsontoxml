@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "newProfile1": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\藤本恵汰\\Documents\\Paiza\\実験"
+    },
+    "FileChange": {
+      "commandName": "Executable"
+    }
+  }
+}
